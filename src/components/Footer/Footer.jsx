@@ -4,7 +4,7 @@ const Footer = () => {
       <div className="bg-custom-red h-6"></div>
 
       <section className="bg-custom-black text-sm text-[#BCBEC0] pt-8 pb-16">
-        <div className="flex justify-center items-center gap-6">
+        <div className="flex justify-center items-center flex-wrap gap-6">
           <div>
             <img
               src="Images/footer-icon1.png"
