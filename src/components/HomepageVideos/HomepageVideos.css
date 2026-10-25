@@ -1,0 +1,6 @@
+/* this wasnt used since i learned the tailwind way of transform (translate-x-1/2 or in this case -translate-x-1/2 & -translate-y-1/2) */
+.transform-mid {
+    transform: translate(-50%, -50%);
+    fill: aqua;
+    color: aqua;
+}
