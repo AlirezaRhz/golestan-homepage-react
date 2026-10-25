@@ -1,7 +1,7 @@
 export const products = [
   {
     id: "rice",
-    image: "/Images/golestan-rice.jpg",
+    image: "Images/golestan-rice.jpg",
     imageAlt: "برنج گلستان",
     name: "برنج گلستان",
     tagline: "رکن اول غذای ایرانی",
@@ -14,7 +14,7 @@ export const products = [
   },
   {
     id: "tea",
-    image: "/Images/golestan-tea.jpg",
+    image: "Images/golestan-tea.jpg",
     imageAlt: "چای گلستان",
     name: "چای گلستان",
     tagline: "سابقه‌ای به قدمت یک عمر",
@@ -24,7 +24,7 @@ export const products = [
   },
   {
     id: "pistachio",
-    image: "/Images/golestan-pistachio.jpg",
+    image: "Images/golestan-pistachio.jpg",
     imageAlt: "پسته گلستان",
     name: "پسته گلستان",
     tagline: "آجيل‌های خوش خنده",
