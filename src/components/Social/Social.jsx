@@ -19,7 +19,7 @@ const Social = () => {
             Responsibility
           </h3>
           <p className="text-xl text-[rgb(188,190,192)] mb-3">Mahdi Hospital</p>
-          <img src="/Images/buildings.jpg" alt="" />
+          <img src="Images/buildings.jpg" alt="Buildings" />
         </div>
       </section>
       <div className="bg-[#FFD6A7] min-h-6"></div>
